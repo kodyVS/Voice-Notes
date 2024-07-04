@@ -6,6 +6,8 @@ The Voice Note Processing Service is a Node.js application designed to automate 
 
 The app [Easy Voice Recorder](https://play.google.com/store/apps/details?id=com.digipom.easyvoicerecorder.pro&hl=en_CA) paid is the one I use, so I set it up with that app in mind since it works with Bluetooth devices and auto syncs to dropbox or google drive.  
 
+The program uses [this template](https://luxurious-carpenter-115.notion.site/c845ea2fb287499aa331f720144cfc20?v=c979de8ced4b4c9e82b83c42da8fc454&pvs=) in notion to display the notes.
+
 ## Features
 
 - **Dropbox Integration**: Lists and downloads audio files from a specified Dropbox folder.
