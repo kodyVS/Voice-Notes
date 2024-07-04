@@ -2,7 +2,9 @@
 
 ## Overview
 
-The Voice Note Processing Service is a Node.js application designed to automate the transcription, processing, and storage of audio files from Dropbox. The service transcribes audio files using OpenAI's Whisper model, processes the transcription with various prompts, and stores the results in Notion.
+The Voice Note Processing Service is a Node.js application designed to automate the transcription, processing, and storage of audio files from Dropbox. The service transcribes audio files using OpenAI's Whisper model, processes the transcription with various prompts, and stores the results in Notion. 
+
+The app [Easy Voice Recorder](https://play.google.com/store/apps/details?id=com.digipom.easyvoicerecorder.pro&hl=en_CA) paid is the one I use, so I set it up with that app in mind since it works with Bluetooth devices and auto syncs to dropbox or google drive.  
 
 ## Features
 
